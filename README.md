@@ -17,7 +17,6 @@ Edits on database:
 
 # Technologies:
 - Python
-- Anaconda
 - Jupyter
 - Visual Studio Code
 - WSL
