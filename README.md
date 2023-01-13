@@ -1,6 +1,5 @@
-# predictDemandLSTM
- An application of the LSTM network to predict the demand for a selected group of products.
- 
+# Demand_product
+Demand dependent on 2 different characteristics
  Data: 
  - collected from ten years (2010 - 2019)
  - each file contains a product code, date and two features
