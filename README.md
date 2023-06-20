@@ -15,7 +15,7 @@ Edits on database:
 - a new dataframe was created containing only one feature
 - data has been sortered by weeks instead of days
 
-#diagrams:
+# diagrams:
 - Diagrams of ppr-20kd12 product
 
 ![Product ppr-20kd12 - feature1](https://user-images.githubusercontent.com/62389300/212394873-cec8ef4f-a55c-4741-9302-26dff522135e.png)
